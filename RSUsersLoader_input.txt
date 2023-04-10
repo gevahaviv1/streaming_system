@@ -1,0 +1,5 @@
+Titanic-1997 Twilight-2008 ForestGump-1994 Batman-2022 StarWars-1977
+Sofia 4 NA 8 NA NA
+Michael NA 8 4 NA 9
+Nicole NA NA 5 2 6
+Arik NA 8 NA 3 NA
